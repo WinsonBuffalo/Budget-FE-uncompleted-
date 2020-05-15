@@ -1,0 +1,5 @@
+package MapLayout
+
+class Location(val x: Int, val y: Int) {
+
+}
